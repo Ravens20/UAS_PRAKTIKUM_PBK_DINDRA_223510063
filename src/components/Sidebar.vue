@@ -27,7 +27,7 @@
       </div>
     </div>
     <div class="sidebar-footer">
-      <p>Contact us: info@example.com</p>
+      <p>Kontak Saya : dindradesvantiod3@gmail.com</p>
     </div>
   </div>
 </template>
